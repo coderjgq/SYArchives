@@ -1,0 +1,189 @@
+E:\档案开发\SYArchives\SY.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Form1.resources
+E:\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Properties.Resources.resources
+E:\档案开发\SYArchives\SY.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\档案开发\SYArchives\SY.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe.config
+E:\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe
+E:\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.pdb
+E:\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.dll
+E:\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.pdb
+E:\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.exe
+E:\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.pdb
+E:\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Form2.resources
+E:\姜国庆\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe.config
+E:\姜国庆\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.exe
+E:\姜国庆\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.pdb
+E:\姜国庆\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe
+E:\姜国庆\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.pdb
+E:\姜国庆\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.dll
+E:\姜国庆\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.pdb
+E:\姜国庆\档案开发\SYArchives\SY.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\姜国庆\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Form1.resources
+E:\姜国庆\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Form2.resources
+E:\姜国庆\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Properties.Resources.resources
+E:\姜国庆\档案开发\SYArchives\SY.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\姜国庆\档案开发\SYArchives\SY.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe.config
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.exe
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.pdb
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.pdb
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.dll
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.pdb
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.csprojResolveAssemblyReference.cache
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Form1.resources
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Form2.resources
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Properties.Resources.resources
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.csproj.GenerateResource.Cache
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.csprojResolveAssemblyReference.cache
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AddCategoryForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AddColumnForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.CustomizeForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.InsertCategoryForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ModifyCategoryForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ModifyColumnForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.PrimaryKeyForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.QueryCategoryForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ResultOrderForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.SelectColumnForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Properties.Resources.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.csproj.GenerateResource.Cache
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe.config
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.dll
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.exe
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.SelectReminderForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ReminderForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ImportForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\bin\Debug\log4net.dll
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.LoginForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ShowRecordDetailForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AttachedInsertForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.CategoryManagerForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.AddUserForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.Attach.AttachQueryForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.ModifyUserForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.RoleManagerForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.AddRoleForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.UserManagerForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.SelectPermissionForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.SelectRoleForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.ViewUserPermissionForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe.config
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.exe
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.pdb
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.pdb
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\bin\Debug\log4net.dll
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.dll
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.pdb
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AddCategoryForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AddColumnForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.Attach.AttachQueryForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.CategoryManagerForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.CustomizeForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ImportForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.InsertCategoryForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.LoginForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ModifyCategoryForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ModifyColumnForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.PrimaryKeyForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.QueryCategoryForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ReminderForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ResultOrderForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.RoleManagerForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.AddRoleForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.SelectPermissionForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.SelectColumnForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.SelectReminderForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ShowRecordDetailForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AttachedInsertForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.AddUserForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.ViewUserPermissionForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.SelectRoleForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.UserManagerForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.ModifyUserForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Properties.Resources.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BaiduYunDownload\档案开发\SYArchives\SY.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe.config
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.exe
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.pdb
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.exe
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\bin\Debug\SY.Client.pdb
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\bin\Debug\log4net.dll
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.dll
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\bin\Debug\SY.MODEL.pdb
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AddCategoryForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AddColumnForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.Attach.AttachQueryForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.CategoryManagerForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.CustomizeForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ImportForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.InsertCategoryForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.LoginForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ModifyCategoryForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ModifyColumnForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.PrimaryKeyForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.QueryCategoryForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ReminderForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ResultOrderForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.RoleManagerForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.AddRoleForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.SelectPermissionForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.SelectColumnForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.SelectReminderForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ShowRecordDetailForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AttachedInsertForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.AddUserForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.ViewUserPermissionForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.SelectRoleForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.UserManagerForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.ModifyUserForm.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Properties.Resources.resources
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WORKS\档案开发\档案开发\SYArchives\SY.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\bin\Debug\SY.Client.exe.config
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\bin\Debug\SY.Client.exe
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\bin\Debug\SY.Client.pdb
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\bin\Debug\log4net.dll
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\bin\Debug\SY.MODEL.dll
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\bin\Debug\SY.MODEL.pdb
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AddCategoryForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AddColumnForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.Attach.AttachQueryForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.CategoryManagerForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.CustomizeForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ImportForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.InsertCategoryForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.LoginForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ModifyCategoryForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ModifyColumnForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.PrimaryKeyForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.QueryCategoryForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ReminderForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ResultOrderForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.RoleManagerForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.AddRoleForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.SelectPermissionForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.SelectColumnForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.SelectReminderForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.ShowRecordDetailForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.AttachedInsertForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.AddUserForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.ViewUserPermissionForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.SelectRoleForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.UserManagerForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Forms.User.ModifyUserForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.Properties.Resources.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.exe
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.Client\obj\x86\Debug\SY.Client.pdb

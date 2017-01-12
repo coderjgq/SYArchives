@@ -1,0 +1,19 @@
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\Test\bin\Debug\Test.exe
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\Test\bin\Debug\Test.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\Test\obj\x86\Debug\Test.Form1.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\Test\obj\x86\Debug\Test.Properties.Resources.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\Test\obj\x86\Debug\Test.exe
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\Test\obj\x86\Debug\Test.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\Test\bin\Debug\Test.exe.config
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\Test\bin\Debug\Test.exe.config
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\Test\bin\Debug\Test.exe
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\Test\bin\Debug\Test.pdb
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\Test\obj\x86\Debug\Test.Form1.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\Test\obj\x86\Debug\Test.Properties.Resources.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\Test\obj\x86\Debug\Test.exe
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\Test\obj\x86\Debug\Test.pdb

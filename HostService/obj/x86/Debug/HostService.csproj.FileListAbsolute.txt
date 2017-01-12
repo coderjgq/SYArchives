@@ -1,0 +1,78 @@
+E:\档案开发\SYArchives\HostService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\档案开发\SYArchives\HostService\bin\Debug\HostService.exe.config
+E:\档案开发\SYArchives\HostService\bin\Debug\HostService.exe
+E:\档案开发\SYArchives\HostService\bin\Debug\HostService.pdb
+E:\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.dll
+E:\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.dll
+E:\档案开发\SYArchives\HostService\bin\Debug\Oracle.DataAccess.dll
+E:\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.pdb
+E:\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.pdb
+E:\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.exe
+E:\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.pdb
+E:\姜国庆\档案开发\SYArchives\HostService\bin\Debug\HostService.exe.config
+E:\姜国庆\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.exe
+E:\姜国庆\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.pdb
+E:\姜国庆\档案开发\SYArchives\HostService\bin\Debug\HostService.exe
+E:\姜国庆\档案开发\SYArchives\HostService\bin\Debug\HostService.pdb
+E:\姜国庆\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.dll
+E:\姜国庆\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.dll
+E:\姜国庆\档案开发\SYArchives\HostService\bin\Debug\Oracle.DataAccess.dll
+E:\姜国庆\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.pdb
+E:\姜国庆\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.pdb
+E:\姜国庆\档案开发\SYArchives\HostService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\HostService.exe.config
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.exe
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.pdb
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.csprojResolveAssemblyReference.cache
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\HostService.exe
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\HostService.pdb
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.dll
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.dll
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\Oracle.DataAccess.dll
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.pdb
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\HostService.exe.config
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\HostService.exe
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\HostService.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\Microsoft.CSharp.dll
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.dll
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.dll
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\Oracle.DataAccess.dll
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.csprojResolveAssemblyReference.cache
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.exe
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.pdb
+E:\BaiduYunDownload\档案开发\SYArchives\HostService\bin\Debug\HostService.exe.config
+E:\BaiduYunDownload\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.exe
+E:\BaiduYunDownload\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.pdb
+E:\BaiduYunDownload\档案开发\SYArchives\HostService\bin\Debug\HostService.exe
+E:\BaiduYunDownload\档案开发\SYArchives\HostService\bin\Debug\HostService.pdb
+E:\BaiduYunDownload\档案开发\SYArchives\HostService\bin\Debug\Microsoft.CSharp.dll
+E:\BaiduYunDownload\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.dll
+E:\BaiduYunDownload\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.dll
+E:\BaiduYunDownload\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.pdb
+E:\BaiduYunDownload\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.pdb
+E:\BaiduYunDownload\档案开发\SYArchives\HostService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WORKS\档案开发\档案开发\SYArchives\HostService\bin\Debug\HostService.exe.config
+E:\WORKS\档案开发\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.exe
+E:\WORKS\档案开发\档案开发\SYArchives\HostService\obj\x86\Debug\HostService.pdb
+E:\WORKS\档案开发\档案开发\SYArchives\HostService\bin\Debug\HostService.exe
+E:\WORKS\档案开发\档案开发\SYArchives\HostService\bin\Debug\HostService.pdb
+E:\WORKS\档案开发\档案开发\SYArchives\HostService\bin\Debug\Microsoft.CSharp.dll
+E:\WORKS\档案开发\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.dll
+E:\WORKS\档案开发\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.dll
+E:\WORKS\档案开发\档案开发\SYArchives\HostService\bin\Debug\SY.DAL.pdb
+E:\WORKS\档案开发\档案开发\SYArchives\HostService\bin\Debug\SY.MODEL.pdb
+E:\WORKS\档案开发\档案开发\SYArchives\HostService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\HostService\bin\Debug\HostService.exe.config
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\HostService\bin\Debug\HostService.exe
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\HostService\bin\Debug\HostService.pdb
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\HostService\bin\Debug\Microsoft.CSharp.dll
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\HostService\bin\Debug\SY.DAL.dll
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\HostService\bin\Debug\SY.MODEL.dll
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\HostService\bin\Debug\SY.DAL.pdb
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\HostService\bin\Debug\SY.MODEL.pdb
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\HostService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\HostService\obj\x86\Debug\HostService.exe
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\HostService\obj\x86\Debug\HostService.pdb

@@ -1,0 +1,53 @@
+E:\档案开发\SYArchives\SY.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\档案开发\SYArchives\SY.DAL\bin\Debug\SY.DAL.dll
+E:\档案开发\SYArchives\SY.DAL\bin\Debug\SY.DAL.pdb
+E:\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.dll
+E:\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.pdb
+E:\档案开发\SYArchives\SY.DAL\bin\Debug\SY.MODEL.dll
+E:\档案开发\SYArchives\SY.DAL\bin\Debug\SY.MODEL.pdb
+E:\档案开发\SYArchives\SY.DAL\bin\Debug\Oracle.DataAccess.dll
+E:\姜国庆\档案开发\SYArchives\SY.DAL\bin\Debug\SY.DAL.dll
+E:\姜国庆\档案开发\SYArchives\SY.DAL\bin\Debug\SY.DAL.pdb
+E:\姜国庆\档案开发\SYArchives\SY.DAL\bin\Debug\Oracle.DataAccess.dll
+E:\姜国庆\档案开发\SYArchives\SY.DAL\bin\Debug\SY.MODEL.dll
+E:\姜国庆\档案开发\SYArchives\SY.DAL\bin\Debug\SY.MODEL.pdb
+E:\姜国庆\档案开发\SYArchives\SY.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\姜国庆\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.dll
+E:\姜国庆\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.pdb
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.csprojResolveAssemblyReference.cache
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.dll
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.pdb
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.DAL\bin\Debug\SY.DAL.dll
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.DAL\bin\Debug\SY.DAL.pdb
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.DAL\bin\Debug\Oracle.DataAccess.dll
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.DAL\bin\Debug\SY.MODEL.dll
+E:\WORKS\GT\档案系统-CS\档案开发\SYArchives\SY.DAL\bin\Debug\SY.MODEL.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.DAL\bin\Debug\SY.DAL.dll
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.DAL\bin\Debug\SY.DAL.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.DAL\bin\Debug\SY.MODEL.dll
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.DAL\bin\Debug\SY.MODEL.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.csprojResolveAssemblyReference.cache
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.dll
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.pdb
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.TestForm.resources
+E:\WORKS\VS2010\档案系统-CS\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.csproj.GenerateResource.Cache
+E:\BaiduYunDownload\档案开发\SYArchives\SY.DAL\bin\Debug\SY.DAL.dll
+E:\BaiduYunDownload\档案开发\SYArchives\SY.DAL\bin\Debug\SY.DAL.pdb
+E:\BaiduYunDownload\档案开发\SYArchives\SY.DAL\bin\Debug\SY.MODEL.dll
+E:\BaiduYunDownload\档案开发\SYArchives\SY.DAL\bin\Debug\SY.MODEL.pdb
+E:\BaiduYunDownload\档案开发\SYArchives\SY.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\BaiduYunDownload\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.TestForm.resources
+E:\BaiduYunDownload\档案开发\SYArchives\SY.DAL\obj\Debug\GenerateResource.read.1.tlog
+E:\BaiduYunDownload\档案开发\SYArchives\SY.DAL\obj\Debug\GenerateResource.write.1.tlog
+E:\BaiduYunDownload\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.dll
+E:\BaiduYunDownload\档案开发\SYArchives\SY.DAL\obj\Debug\SY.DAL.pdb
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.DAL\bin\Debug\SY.DAL.dll
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.DAL\bin\Debug\SY.DAL.pdb
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.DAL\bin\Debug\SY.MODEL.dll
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.DAL\bin\Debug\SY.MODEL.pdb
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.DAL\obj\Debug\SY.DAL.TestForm.resources
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.DAL\obj\Debug\GenerateResource.read.1.tlog
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.DAL\obj\Debug\GenerateResource.write.1.tlog
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.DAL\obj\Debug\SY.DAL.dll
+E:\works\workspace_vs\档案开发 - 20151103\SYArchives\SY.DAL\obj\Debug\SY.DAL.pdb

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+  <book>
+    <title>很看好 </title>
+    <author name="XIAO">
+      <age>25</age>
+    </author>
+    <price>50</price>
+  </book>
+  <TestNode>testNode</TestNode>
+</bookstore>
